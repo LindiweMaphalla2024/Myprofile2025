@@ -45,8 +45,8 @@ if menu == "Researcher Profile":
     st.sidebar.header("Profile Options")
 
     # Collect basic information
-    name = "Dr. Jane Doe"
-    field = "Astrophysics"
+    name = "Lindiwe"
+    field = "BIOTECH"
     institution = "University of Science"
 
     # Display basic profile information
